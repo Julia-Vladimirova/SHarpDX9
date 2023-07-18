@@ -1,0 +1,15 @@
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\bin\Debug\net6.0\Work1.exe
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\bin\Debug\net6.0\Work1.deps.json
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\bin\Debug\net6.0\Work1.runtimeconfig.json
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\bin\Debug\net6.0\Work1.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\bin\Debug\net6.0\Work1.pdb
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.csproj.AssemblyReference.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.AssemblyInfoInputs.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.AssemblyInfo.cs
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\refint\Work1.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.pdb
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\Work1.genruntimeconfig.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\obj\Debug\net6.0\ref\Work1.dll

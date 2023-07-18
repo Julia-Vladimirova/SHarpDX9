@@ -1,0 +1,15 @@
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\Work2\obj\Debug\net6.0\Work2.csproj.AssemblyReference.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\Work2\obj\Debug\net6.0\Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\Work2\obj\Debug\net6.0\Work2.AssemblyInfoInputs.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\Work2\obj\Debug\net6.0\Work2.AssemblyInfo.cs
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\Work1\Work2\obj\Debug\net6.0\Work2.csproj.CoreCompileInputs.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\bin\Debug\net6.0\Work2.exe
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\bin\Debug\net6.0\Work2.deps.json
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\bin\Debug\net6.0\Work2.runtimeconfig.json
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\bin\Debug\net6.0\Work2.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\bin\Debug\net6.0\Work2.pdb
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\obj\Debug\net6.0\Work2.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\obj\Debug\net6.0\refint\Work2.dll
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\obj\Debug\net6.0\Work2.pdb
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\obj\Debug\net6.0\Work2.genruntimeconfig.cache
+C:\Users\Fidlo\OneDrive\Рабочий стол\DZsharp9\Homwork\work1\Work2\obj\Debug\net6.0\ref\Work2.dll
